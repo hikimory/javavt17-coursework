@@ -20,6 +20,7 @@
       <list>
         <option value="spring-beans.schema" />
         <option value="Jsp File" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -156,7 +157,8 @@
       <workItem from="1573064958060" duration="176000" />
       <workItem from="1573316426244" duration="682000" />
       <workItem from="1573318624681" duration="661000" />
-      <workItem from="1573574803003" duration="256000" />
+      <workItem from="1573574803003" duration="973000" />
+      <workItem from="1573887318949" duration="727000" />
     </task>
     <servers />
   </component>

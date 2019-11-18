@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
       <artifact name="GRUD:war" />
@@ -159,7 +162,7 @@
       <workItem from="1573318624681" duration="661000" />
       <workItem from="1573574803003" duration="973000" />
       <workItem from="1573887318949" duration="1439000" />
-      <workItem from="1574091937964" duration="490000" />
+      <workItem from="1574091937964" duration="1180000" />
     </task>
     <servers />
   </component>
